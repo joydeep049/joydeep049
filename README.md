@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joydeeptripathy3@gmail.com**
 
-- ⚡ Fun fact **Life is like an electron! (Think Why?)**
+- ⚡ Fun fact: **Life is like an electron! (Think Why?)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
