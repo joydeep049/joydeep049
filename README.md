@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Design and DevOps**
 
-- 💬 Ask me about **Machine Learning, Tensorflow and Backend**
+- 💬 Ask me about **Machine Learning, PyTorch and Backend**
 
 - 📫 How to reach me **joydeeptripathy3@gmail.com**
 
